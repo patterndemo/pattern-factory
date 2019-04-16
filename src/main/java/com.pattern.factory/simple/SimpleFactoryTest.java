@@ -9,6 +9,6 @@ public class SimpleFactoryTest {
     public static void main(String[] args) {
 
         SimpleFactory simpleFactory = new SimpleFactory();
-        System.out.println(simpleFactory.getMilk("特仑苏"));
+        System.out.println(simpleFactory.getMilk("伊利"));
     }
 }
